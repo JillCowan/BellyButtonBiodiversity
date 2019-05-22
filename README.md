@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-![th.jpg](th.jpg)
+![th1.jpg](th1.jpg)
 
 
 In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
